@@ -1,2 +1,2 @@
-# Machine-Learning
-위탁교육 Machine Learning &amp; Data Mining
+# ML @ SKKU — High School Dual-Enrollment Program
+Consigned Learning in SKKU (when I was a highschool grader)
